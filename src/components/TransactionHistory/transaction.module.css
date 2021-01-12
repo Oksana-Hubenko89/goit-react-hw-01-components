@@ -1,0 +1,16 @@
+.transactionHistory{
+background-color: fuchsia ;
+border: 2mm solid salmon;  
+}
+thead {
+background-color: red;
+}
+tbody{
+background-color: silver;
+}
+th{
+padding: 10px;
+}
+td{
+padding: 5px 10px;
+}

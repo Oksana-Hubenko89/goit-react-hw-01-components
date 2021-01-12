@@ -1,0 +1,61 @@
+.profile{    
+  text-align: center;
+  display: flexbox;
+  background-color:   grey;
+  border: 4mm ridge rgba(170, 50, 220, .6);
+}
+.description{  
+  background-color:  yellowgreen;
+  align-items: center;
+  font-weight: 600;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 80px;
+}
+.avatar{   
+  display: block;
+  border-radius: 50%;
+  display: block;    
+  width: auto;
+  background-color: teal;
+  
+  }
+
+.name{
+  text-align: center;  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 36px;
+}
+ .tag{ 
+  color: grey;  
+  list-style-type: none;
+ 
+}
+
+.location{
+    text-align: center;
+    list-style-type: none;
+    padding-bottom: 20px;
+
+    }
+
+.stats{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;   
+    list-style-type: none;
+    display: flex;
+}
+
+.label{ 
+    margin: 10px;
+    border: 1mm ridge rgba(170, 50, 220, .6);  
+    text-align: center;
+    background-color: thistle;
+}
+
+.quantity{
+    margin-right: 10px;
+    color: white;
+    text-align: center;
+ }

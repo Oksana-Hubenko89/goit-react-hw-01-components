@@ -1,0 +1,10 @@
+.item{
+    list-style-type:none;
+}
+.item
+::before {
+   
+    content: "✿"; /* Добавляем символ */
+    padding-right: 7px; /* Расстояние от текста до маркеров */
+     /* Красный цвет маркеров */
+   }

@@ -1,0 +1,29 @@
+.statList{
+    display: flex;
+    text-align: center;
+   
+    
+}
+.title{
+    border-top: 1mm solid black;
+    border-bottom: 1mm solid black;
+    text-transform: uppercase;
+    text-align: center;
+}
+.item{
+  margin: 10px auto;
+  border: 1mm solid black; 
+  display: grid;
+  
+}
+section{
+    display: flexbox;
+    align-items: center;
+    border: 1mm solid black;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
