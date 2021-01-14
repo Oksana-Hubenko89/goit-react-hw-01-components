@@ -4,10 +4,10 @@ import Statistics from './components/Statistics'
 import FriendList from './components/FriendList'
 import TransactionHistory from './components/TransactionHistory'
 import './App.css'
-import user from './user.json';
-import statisticalData from './statistical-data.json';
-import friends from './friends.json';
-import transactions from './transactions.json';
+import user from './Data/user.json';
+import statisticalData from './Data/statistical-data.json';
+import friends from './Data/friends.json';
+import transactions from './Data/transactions.json';
 
 function App() {
   // const image = React.createElement('img', {
