@@ -1,9 +1,9 @@
-import React from 'react'
-import Profile from '../components/Profile/Profile'
-import Statistics from '../components/Statistics/Statistics'
-import FriendList from '../components/FriendList/FriendList'
-import TransactionHistory from '../components/TransactionHistory/TransactionHistory'
-import './App.css'
+import React from 'react';
+import Profile from '../components/Profile';
+import Statistics from '../components/Statistics';
+import FriendList from '../components/FriendList';
+import TransactionHistory from '../components/TransactionHistory';
+import './App.css';
 import user from '../Data/user.json';
 import statisticalData from '../Data/statistical-data.json';
 import friends from '../Data/friends.json';

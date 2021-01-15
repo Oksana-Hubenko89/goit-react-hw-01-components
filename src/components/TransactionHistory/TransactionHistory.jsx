@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TransactionHistoryItem from './TransactionHistoryItem'
+import TransactionHistoryItem from './TransactionHistoryItem/TransactionHistoryItem'
 import s from './transaction.module.css'
 function TransactionHistory({ type, amount, currency, id, items, item }) {
   return (
